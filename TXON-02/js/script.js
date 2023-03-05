@@ -18,8 +18,7 @@ buttons.forEach((item)=> {
             display.innerText+=item.id;
         }
         };
-    }
-    );
+    });
 
     const themeToggleBtn=document.querySelector(".theme-toggler");
     const calculator=document.querySelector(".calculator");
