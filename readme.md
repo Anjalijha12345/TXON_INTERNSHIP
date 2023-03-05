@@ -2,3 +2,6 @@
 ## Web Development and Design Internship
 ### Task - 01 : Create a Landing Page
 Demo:(https://txon-task-1.netlify.app/)
+
+### Task - 02 : create a simple calculator
+demo:
